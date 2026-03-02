@@ -4,12 +4,12 @@
   box-sizing: border-box;
 }
 div{
-    background-color: black;
+    /* background-color: black; */
     display: flex;
     justify-content: center;
 }
 h1{
-    color: white;
+    color: black;
     /* background-color: aqua; */
 }
 p{
